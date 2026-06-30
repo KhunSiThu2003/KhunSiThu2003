@@ -61,26 +61,3 @@ I am a passionate developer who enjoys building web applications, mobile apps, a
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
-
----
-
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhunSiThu2003&show_icons=true&theme=radical" alt="Khun Si Thu GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhunSiThu2003&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhunSiThu2003&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
-## 🛠️ Featured Projects:
-
-- **Social Media FastAPI** - A robust social media backend API built with FastAPI, Python, and Docker. This project demonstrates strong API design principles and efficient data handling.
-- **Yamethin Voting System** - A web-based voting system developed with Vue.js, highlighting frontend development skills and interactive user interface design.
-
----
-
-<div align="center">
-  <p>Feel free to explore my repositories and connect with me!</p>
-</div>
