@@ -1,14 +1,14 @@
 
 <div align="center">
   <h1>Hi there, I'm Khun Si Thu! 👋</h1>
-  <p><i>Passionate Full-Stack Developer | Machine Learning Enthusiast | Mobile App Creator</i></p>
+  <p><i>Passionate Full-Stack Developer | Mobile App Creator</i></p>
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a dedicated and versatile developer with a strong foundation in building robust web applications, exploring the exciting world of machine learning, and crafting intuitive mobile experiences. My journey in tech is driven by a curiosity to learn and a desire to create impactful solutions. I enjoy tackling complex problems and continuously expanding my skill set across various domains.
+I'm a dedicated and versatile developer with a strong foundation in building robust web applications and crafting intuitive mobile experiences. My journey in tech is driven by a curiosity to learn and a desire to create impactful solutions. I enjoy tackling complex problems and continuously expanding my skill set across various domains.
 
 ---
 
@@ -18,7 +18,6 @@ I'm a dedicated and versatile developer with a strong foundation in building rob
   <a href="https://github.com/KhunSiThu2003" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <!-- Add more social links here if available or inferred -->
 </p>
 
 ---
@@ -41,7 +40,7 @@ I'm a dedicated and versatile developer with a strong foundation in building rob
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/Vite-646C44?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
 </p>
 
 ### Backend & Database
@@ -49,12 +48,6 @@ I'm a dedicated and versatile developer with a strong foundation in building rob
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</p>
-
-### Machine Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-  <!-- Add more ML related badges if appropriate -->
 </p>
 
 ### Tools & Deployment
@@ -80,7 +73,6 @@ I'm a dedicated and versatile developer with a strong foundation in building rob
 ## 🛠️ Featured Projects:
 
 - **Social Media FastAPI** - A robust social media backend API built with FastAPI, Python, and Docker. This project demonstrates strong API design principles and efficient data handling.
-- **Learn ML in Prod** - A comprehensive repository focused on deploying machine learning models into production environments, showcasing expertise in Python, C++, and Jupyter Notebooks for practical ML applications.
 - **Yamethin Voting System** - A web-based voting system developed with Vue.js, highlighting frontend development skills and interactive user interface design.
 
 ---
