@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a dedicated and versatile developer with a strong foundation in building robust web applications, crafting intuitive mobile experiences, and leveraging C# for powerful backend solutions. My journey in tech is driven by a curiosity to learn and a desire to create impactful solutions. I enjoy tackling complex problems and continuously expanding my skill set across various domains.
+I am a passionate developer who enjoys building web applications, mobile apps, and backend systems using modern technologies. I love solving problems, learning new skills, and creating useful solutions. I am always improving my knowledge and exploring new areas in technology.
 
 ---
 
